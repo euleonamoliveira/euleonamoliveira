@@ -4,7 +4,7 @@
 
 💼 **I work at Viação Garcia, Brasil Sul and Santo Anjo as an Administrative Assistant.**
 
----
+--
 
 ## 🌐 Were to find me
 
@@ -17,11 +17,4 @@
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=euleonamoliveira&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euleonamoliveira&layout=compact&theme=tokyonight" />
-</p>
+--
